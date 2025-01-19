@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+R:\Volkov\Project1\Project1\FileName.cpp(114,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project1.vcxproj -> R:\Volkov\Project1\x64\Debug\Project1.exe
