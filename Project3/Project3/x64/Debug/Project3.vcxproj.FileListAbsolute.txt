@@ -1,0 +1,7 @@
+C:\Users\ToushkaHeka\Desktop\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\ToushkaHeka\Desktop\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\ToushkaHeka\Desktop\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
+E:\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+E:\Project3\Project3\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+E:\Project3\Project3\x64\Debug\Project3.MyForm.resources
+E:\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
